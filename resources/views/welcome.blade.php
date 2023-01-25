@@ -21,6 +21,7 @@
                 <br>To be able to interact with the database it is necessary to execute the commands:
                 <br>- php artisan migrate
                 <br>- php artisan db:seed
+                <br>
                 <br>Or you can run both at the same time with:
                 <br>- php artisan migrate:fresh --seed
                 <br>
