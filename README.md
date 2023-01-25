@@ -12,6 +12,7 @@ Once this is done, you must install the packages with the following commands:
 To be able to interact with the database it is necessary to execute the commands:
 - php artisan migrate
 - php artisan db:seed
+
 Or you can run both at the same time with:
 - php artisan migrate:fresh --seed
 
