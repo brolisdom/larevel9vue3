@@ -9,6 +9,9 @@ Once this is done, you must install the packages with the following commands:
 - npm install
 - composer install
 
+Then you have to generate your .env file with the command:
+- php artisan key:generate
+
 To be able to interact with the database you need to execute the commands:
 - php artisan migrate
 - php artisan db:seed
